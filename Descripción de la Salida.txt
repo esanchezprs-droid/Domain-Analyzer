@@ -1,0 +1,17 @@
+Descripción de la Salida
+
+Resolución DNS:
+
+Muestra todas las direcciones IP asociadas con el dominio.
+Información WHOIS:
+
+Proporciona detalles del registro del dominio, incluyendo el registrador, el registrante, y los servidores DNS.
+Análisis SSL:
+
+Verifica la validez del certificado SSL y muestra detalles como el emisor, el sujeto, y la fecha de expiración.
+Geolocalización IP:
+
+Ofrece información geográfica de las IPs obtenidas, incluyendo país, región, ciudad, y coordenadas.
+Análisis de Vulnerabilidades:
+
+Evalúa la seguridad del dominio según las directrices OWASP Top 10 y proporciona una puntuación de seguridad junto con recomendaciones.

@@ -1,0 +1,5 @@
+Problemas Comunes
+
+Errores de Resolución DNS: Asegúrate de que el dominio proporcionado es válido y está correctamente escrito.
+
+Errores de SSL: Algunos dominios pueden no tener un certificado SSL válido, lo que resultará en un error durante el análisis SSL.

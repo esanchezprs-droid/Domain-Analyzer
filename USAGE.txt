@@ -1,0 +1,7 @@
+sh
+pip install -r requirements.txt
+
+sh
+python domain_analyzer.py google.com
+
+### `USAGE.txt` ```txt # Cómo usar Domain Analyzer Domain Analyzer es una herramienta de línea de comandos que realiza un análisis completo de un dominio. A continuación, se detallan los pasos para usar la herramienta: ## Sintaxis ```sh python domain_analyzer.py <sitio-web>
