@@ -1,7 +1,32 @@
-sh
+despues de la instalacion 
+
+crear entorno virtual (recomendado pero opcional)
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+listar las dependencias
+
+pip freeze > requirements.txt
+
+dependencias 
+
+pip install requests
+
+pip install beautifulsoup4
+
 pip install -r requirements.txt
 
-sh
-python domain_analyzer.py google.com
+para corer el programa 
+
+python3 domain-analyser.py google.com
+
+
+
+Desactivar el entorno virtual:
+
+deactivate
+
 
 ### `USAGE.txt` ```txt # Cómo usar Domain Analyzer Domain Analyzer es una herramienta de línea de comandos que realiza un análisis completo de un dominio. A continuación, se detallan los pasos para usar la herramienta: ## Sintaxis ```sh python domain_analyzer.py <sitio-web>
